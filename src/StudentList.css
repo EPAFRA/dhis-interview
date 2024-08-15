@@ -1,0 +1,39 @@
+
+.student-table {
+    margin: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 12px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+  }
+  td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  thead th:hover,
+  tbody tr:hover {
+    background-color: #e0e0e0;
+  }
+  
+ 
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
